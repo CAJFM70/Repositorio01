@@ -10,6 +10,6 @@ Realizar una tabla en donde se mande llamar por renglones, a 3 Repositorios en G
 | [Repositorio02](https://github.com/CAJFM70/Repositorio02) | Repositorio #02 de ejemplo, sin contenido real |
 | [Repositorio03](https://github.com/CAJFM70/Repositorio03) | Repositorio #03 de ejemplo, sin contenido real |
 
-***M.T.E. César Augusto de Jesús Flores Moreno***
-**CBTis #119**
+***M.T.E. César Augusto de Jesús Flores Moreno***  
+**CBTis #119**  
 *Cd. Victoria, Tam.*
